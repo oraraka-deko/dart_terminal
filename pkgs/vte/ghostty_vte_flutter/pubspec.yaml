@@ -16,7 +16,7 @@ topics:
   - ghostty
 
 environment:
-  sdk: ^3.10.4
+  sdk: ^3.10.0-75.1.beta
   flutter: ">=1.17.0"
 
 resolution: workspace

@@ -18,7 +18,7 @@ topics:
   - process
 
 environment:
-  sdk: ^3.10.4
+  sdk: ^3.10.0-75.1.beta
 
 executables:
   setup: setup
