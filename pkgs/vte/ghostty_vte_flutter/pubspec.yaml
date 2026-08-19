@@ -25,8 +25,14 @@ dependencies:
   characters: ^1.4.1
   flutter:
     sdk: flutter
-  ghostty_vte: ^0.1.4
-  portable_pty: ^0.0.6
+  ghostty_vte: 
+     git: 
+      url: https://github.com/oraraka-deko/dart_terminal
+      path: pkgs/vte/ghostty_vte
+  portable_pty: 
+    git: 
+      url: https://github.com/oraraka-deko/dart_terminal
+      path: pkgs/pty/portable_pty
   url_launcher: ^6.3.2
 
 dev_dependencies:
